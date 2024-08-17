@@ -24,7 +24,6 @@ a{
 }
 a::after{
     text-decoration: none;
-    color: white;
 }
 nav > div:first-child > div{
     width: 150px;
